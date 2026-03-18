@@ -7,7 +7,7 @@ def get_milestone(years):
     elif  40 <= years < 50: return "Ruby"
     elif  50 <= years < 60: return "Gold"
     elif  60 <= years < 70: return "Diamond"
-    elif  70 <= years: return "Platinium"
+    elif  70 <= years: return "Platinum"
 
     return years
 
